@@ -1,7 +1,14 @@
 # FNP Sale Data Analysis (Interactive Dashboard creation using MS Excel)
 
-### Dataset used
+### Project Objective
 
+You have been given a dataset from FNP (Ferns and Petals) that specializes in sending gifts for various occasions like Diwali, Raksha Bandhan, Holi, Valentine’s Day, Birthdays, and Anniversaries. The dataset contains details about the products, orders, customers, and relevant dates. Your task is to analyse this dataset to uncover key insights related to sales trends, customer behaviour, and product performance.
+
+
+### Dataset Used
+• [Customers Data](https://github.com/Bhabani-DA/FNP-Sala-Data-Analysis/blob/main/customers.csv)  
+• [Orders Data](https://github.com/Bhabani-DA/FNP-Sala-Data-Analysis/blob/main/orders.csv)  
+• [Product Data](https://github.com/Bhabani-DA/FNP-Sala-Data-Analysis/blob/main/products.csv)  
 
 ### Questions (KPIs):
 •	Get the total revenue generated?  
@@ -25,7 +32,7 @@
 
 ### Dashboard:
 
-
+![Dashboard_Image](https://github.com/user-attachments/assets/79d4364d-ac69-4712-abc4-b89fab8ddfc1)
 
 ### Project Insights:
 •	Revenue has shown a significant increase during festive months like Diwali and Raksha Bandhan, indicating strong seasonal demand.  
